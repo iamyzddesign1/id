@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-color: #e2891c;
+    background-color: orange;
     padding: 7px;
     margin: 50px;
 }
